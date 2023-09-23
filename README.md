@@ -1,4 +1,4 @@
-## Hi I'm Brayden! :sunglasses:
+## Hi I'm Brayden! 😎
 [![Brayden's Github Stats](https://github-readme-stats.vercel.app/api?username=BraydenNgo)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials
