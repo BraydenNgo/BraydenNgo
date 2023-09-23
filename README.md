@@ -3,6 +3,8 @@
 
 ## Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brayden-ngo-b270b0213/)
-🌐 [My Portfolio Website](https://braydenngo.github.io/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://braydenngo.github.io/) 🌐
+
 
 
